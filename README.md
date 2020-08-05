@@ -13,5 +13,10 @@ build a machine learning model to predict whether a visitor will return for more
     - Create a classification (logistic regression) model in BQML
     - Evaluate the performance of your machine learning model
     - Predict and rank the probability that a visitor will make a purchase
+    
+    
+ ### Model Accuracy
+ 
+ ![Screenshot_10](https://user-images.githubusercontent.com/22475630/89445834-561e2280-d75c-11ea-8fb6-e9bcbca6cbc9.png)
 
 
