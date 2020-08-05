@@ -6,7 +6,7 @@ build a machine learning model to predict whether a visitor will return for more
 
 
 
-- Tasks :
+- ### Tasks :
     - Use BigQuery to find public datasets
     - Query and explore the ecommerce dataset
     - Create a training and evaluation dataset to be used for batch prediction
