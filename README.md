@@ -18,5 +18,9 @@ build a machine learning model to predict whether a visitor will return for more
  ### Model Accuracy
  
  ![Screenshot_10](https://user-images.githubusercontent.com/22475630/89445834-561e2280-d75c-11ea-8fb6-e9bcbca6cbc9.png)
+ 
+ ### Predictions
+ 
+ ![Predicts](https://user-images.githubusercontent.com/22475630/89445933-7bab2c00-d75c-11ea-8aee-28263cadbf9d.png)
 
 
